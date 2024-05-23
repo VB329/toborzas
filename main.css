@@ -1,0 +1,84 @@
+*
+{
+    background-color: #BACC81;
+}
+body
+{
+    background-color: #BACC81;
+}
+html
+{
+    background-color: #4B5320;
+}
+.header
+{
+    text-align: center;
+    margin-top: 70px;
+    padding-top: 1px;
+}
+.focim
+{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    text-decoration: double underline black;
+}
+.img_header
+{
+    width: 800px;
+    height: 600px;
+}
+.alcim
+{
+    font-weight: bold;
+    text-decoration: underline black;
+}
+.kep_2
+{
+    width: 800px;
+    height: 600px;
+    padding: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p, li
+{
+    font-weight: 700;
+}
+.t_list
+{
+    list-style-type: none;
+}
+.img_elerhet
+{
+    width: 300px;
+    height: 300px;
+}
+.img_header, .kep_1, .kep_2
+{
+    border: 5px solid #4B5320;
+    margin-bottom: 50px;
+}
+.jelentkezes_gomb
+{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 99; 
+    font-size: 25px;
+    border-radius: 30px;
+    border: 7px solid;
+    background-color: lightgreen;
+}
+.jelentkezes_gomb:hover
+{
+    background-color: green;
+    font-weight: bold;
+}
+.also_cont
+{
+    margin-bottom: 60px;
+}
